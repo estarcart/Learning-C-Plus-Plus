@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Downloads\\Cursos\\Learning-C-Plus-Plus\\FIrst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B42312A-1957-49F0-A9EA-89A7B94EE67C}|FIrst\\FIrst.vcxproj|C:\\Users\\david\\Downloads\\Cursos\\Learning-C-Plus-Plus\\FIrst\\FIrst\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B42312A-1957-49F0-A9EA-89A7B94EE67C}|FIrst\\FIrst.vcxproj|solutionrelative:FIrst\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\david\\Downloads\\Cursos\\Learning-C-Plus-Plus\\FIrst\\FIrst\\main.cpp",
+              "RelativeDocumentMoniker": "FIrst\\main.cpp",
+              "ToolTip": "C:\\Users\\david\\Downloads\\Cursos\\Learning-C-Plus-Plus\\FIrst\\FIrst\\main.cpp",
+              "RelativeToolTip": "FIrst\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T06:22:28.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
